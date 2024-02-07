@@ -1,10 +1,10 @@
-# Rasa! Vantiya... 👋
+# Rasa! Vantiya... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 Thanks for stopping by. I'm Arjith Natarajan, but you can call me Natz (like my friends do :) Not much of stuff to see here, but figured you'd like to know more...
 
 ## About Me
 - 👋 Tech generalist. Engineer by profession / entrepreneur at heart.
-- 👀 I’m interested in building online tools and supporting fellow indiehacker projects.
+- 👀 I’m interested in Hackathons, building online tools & supporting fellow indiehacker projects.
 - 🌱 I’m currently learning the **Art of Consistency**
 - 💞️ I’m looking to collaborate on quirky Javascript, Typescript packages.
 - 📫 How to reach me, [mail me](mailto:arjith@hckrs.one) or, DM [@natlify](https://twitter.com/natlify) on X.
