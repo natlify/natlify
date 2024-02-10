@@ -14,8 +14,9 @@ Thanks for stopping by. I'm Arjith Natarajan, but you can call me Natz (like my 
 ## My Toolbox 🛠️
 
 - Languages: JavaScript, PHP
-- Frameworks: React, NextJS, Node.js
+- Frameworks: React, NextJS, Node.js, Strapi
 - Tools: VS Code, Git, iTerm2, oh-my-zsh and an old MacBook.
+- Also Notion
 
 ### 🚀 Let's Connect and build something awesome together!
 ![SpaceWallpaper1280x448](https://github.com/natlify/natlify/assets/128794065/3a12b3fe-bbb1-4f17-a1fb-2314292760fb)
